@@ -74,3 +74,7 @@ El bot de Discord utiliza un modelo exportado desde Teachable Machine para reali
 Las contribuciones son bienvenidas. Por favor, abre un *issue* o un *pull request* con tus mejoras o ideas.
 
 ---
+
+## Licencia
+
+Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
